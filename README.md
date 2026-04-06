@@ -1,4 +1,4 @@
-# Quran-Buhari_Hadis-RAG-System(still doing)
+# Quran-Buhari_Hadith-RAG-System(still doing)
 
 **A Retrieval-Augmented Generation (RAG) system for the Quran and Sahih al-Bukhari Hadith.**
 
